@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**JoaoBompastor/JoaoBompastor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 👋 Opa! eu sou o joão Bompastor! Que bom te ter por aqui! :D
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![image](https://user-images.githubusercontent.com/124584556/219496569-f24cae10-64e0-4c19-b2a6-0349919eb489.png)
 ![image](https://user-images.githubusercontent.com/124584556/219496601-838ac5b2-1342-4b3d-9504-59d7f5147277.png)
