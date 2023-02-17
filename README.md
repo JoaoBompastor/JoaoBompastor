@@ -1,4 +1,4 @@
-## 👋 Opa! eu sou o joão Bompastor! Que bom te ter por aqui! :D
+## 👋 Opa! Que bom te ter por aqui! :D
 
 - 🌱 Estudando python!
 - 📚 Quero aprender: Django framework/Rust
