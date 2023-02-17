@@ -1,7 +1,7 @@
 ## 👋 Opa! eu sou o joão Bompastor! Que bom te ter por aqui! :D
 
 - 🌱 Estudando python!
-- 😄 Pronomes: Ele/Dele
+- 🍳 Open to FreeLance
 
 ```python
 class Joao:
