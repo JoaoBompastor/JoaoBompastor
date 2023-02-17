@@ -1,6 +1,7 @@
 ## 👋 Opa! eu sou o joão Bompastor! Que bom te ter por aqui! :D
 
 - 🌱 Estudando python!
+- 📚 Quero aprender: Django framework/Rust
 - 🍳 Open to FreeLance
 
 ```python
@@ -12,7 +13,7 @@ class Joao:
         self.Technologies = ['Python', 'HTML', 'CSS3', 'Tailwind' 'JavaScript']
 
     def Hello():
-        print('Hello, GitHub! ^^')
+        print('Hello, GitHub!')
 ```
 
 <div style="display: inline_block"><br>
