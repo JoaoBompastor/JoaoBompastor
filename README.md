@@ -5,15 +5,16 @@
 - 🍳 Open to FreeLance
 
 ```python
-class Joao:
-    def __init__(self, Name, Age, Nationality, Technologies) -> None:
+class João:
+    def __init__(self, Name, Age, Nationality, Technologies) -> str:
         self.Name = 'João Sátiro Bompastor'
         self.Age = '17y'
         self.Nationality = 'Brazil ☕'
         self.Technologies = ['Python', 'HTML', 'CSS3', 'Tailwind' 'JavaScript']
 
+    @staticmethod
     def Hello():
-        print('Hello, GitHub!')
+        print('Hello, GitHub! ^^')
 ```
 
 <div style="display: inline_block"><br>
