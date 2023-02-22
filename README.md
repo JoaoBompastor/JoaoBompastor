@@ -5,7 +5,7 @@
 - 🍳 Open to FreeLance
 
 ```python
-class João:
+class Joao:
     def __init__(self, Name, Age, Nationality, Technologies) -> str:
         self.Name = 'João Sátiro Bompastor'
         self.Age = '17y'
