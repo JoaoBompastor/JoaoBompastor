@@ -1,7 +1,7 @@
 ## 👋 Opa! Que bom te ter por aqui! :D
 
 - 🌱 Estudando python!
-- 📚 Quero aprender: Django framework/Rust
+- 📚 Quero aprender: Django framework/Flask framework
 - 🍳 Open to FreeLance
 
 ```python
