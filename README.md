@@ -6,11 +6,13 @@
 
 ```python
 class Joao:
-    def __init__(self, Name: str, Age: int, Nationality: str, Technologies: list) -> str:
-        self.Name = 'João Sátiro Bompastor'
-        self.Age = '17y'
-        self.Nationality = 'Brazil ☕'
-        self.Technologies = ['Python', 'HTML', 'CSS3', 'JavaScript']
+    def __init__(self, Name: str, Age: int, Nationality: str, Technologies: list) -> dict:
+        Info:dict = {
+            self.Name : 'João Sátiro Bompastor',
+            self.Age : '17y',
+            self.Nationality : 'Brazil ☕',
+            self.Technologies : ['Python', 'HTML', 'CSS3', 'JavaScript']
+        }
 
     @staticmethod
     def Hello():
