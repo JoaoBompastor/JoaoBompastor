@@ -7,7 +7,7 @@
 ```python
 class Joao:
     def __init__(self, Name: str, Age: int, Nationality: str, Technologies: list) -> dict:
-        Info:dict = {
+        Info: dict = {
             self.Name : 'João Sátiro Bompastor',
             self.Age : '17y',
             self.Nationality : 'Brazil ☕',
