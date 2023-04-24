@@ -1,22 +1,21 @@
 ## 👋 Opa! Que bom te ter por aqui! :D
 
 - 🌱 Estudando python!
-- 📚 Quero aprender: Django framework/Flask framework
+- 📚 Quero aprender: React/Typescript
 - 🍳 Open to FreeLance
 
 ```python
+from dataclasses import dataclass
+
+@dataclass
 class Joao:
-    def __init__(self, Name: str, Age: int, Nationality: str, Technologies: list) -> dict:
-        Info: dict = {
-            self.Name : 'João Sátiro Bompastor',
-            self.Age : '17y',
-            self.Nationality : 'Brazil ☕',
-            self.Technologies : ['Python', 'HTML', 'CSS3', 'JavaScript']
-        }
+    FullName: str = "João Sátiro Bompastor"
+    Nationality: str = "Brazilian ☕"
+    Technologies: list = ["Python", "CSS3", "HTML", "JavaScript"]
 
     @staticmethod
     def Hello():
-        print('Hello, GitHub! ^^')
+        print("Hello, Github! :^)")
 ```
 
 <div style="display: inline_block"><br>
