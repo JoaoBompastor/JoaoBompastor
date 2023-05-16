@@ -1,6 +1,6 @@
 ## 👋 Opa! Que bom te ter por aqui! :D
 
-- 🌱 Estudando python, Rust!
+- 🌱 Estudando Rust!
 - 📚 Quero aprender: React/Typescript
 - 🍳 Open to FreeLance
 
