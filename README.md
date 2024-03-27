@@ -11,7 +11,7 @@ from dataclasses import dataclass
 class Joao:
     FullName: str = "João Sátiro Bompastor"
     Nationality: str = "Brazilian ☕"
-    Technologies: list = ["Python", "CSS3", "HTML", "JavaScript"]
+    Technologies: list = ["Python", "Rust", "Java", "HTML", "CSS3", "JavaScript"]
 
     @staticmethod
     def Hello():
