@@ -1,8 +1,7 @@
 ## 👋 Opa! Que bom te ter por aqui! :D
 
 - 🌱 Estudando Rust!
-- 📚 Quero aprender: React/Typescript
-- 🍳 Open to FreeLance
+- 📚 Quero aprender: Compiler Design
 
 ```python
 from dataclasses import dataclass
